@@ -4,6 +4,8 @@
 
 **Line群組: https://line.me/ti/g/HXh6KAaqiP**
 
+**Email: BigflowerFrancis@gmail.com**
+
 ## 課程進度與內容
 
 **第一週2023/02/14（二）10:10-12:00**
