@@ -15,7 +15,6 @@
 - 進度內容：入門概論-認識電腦
 - MS Teams 連結
 - 課程錄影：
-
            - https://youtu.be/RgqZ0ZiYZ3E         
            - https://youtu.be/p5Yv5FaQQ24
            
