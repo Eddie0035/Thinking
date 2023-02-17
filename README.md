@@ -14,14 +14,10 @@
 - 課程綱要，請見上面的檔案區塊
 - 進度內容：入門概論-認識電腦
 - MS Teams 連結
+- 課程錄影：https://youtu.be/RgqZ0ZiYZ3E
+           https://youtu.be/p5Yv5FaQQ24
 
-您受邀加入 Microsoft Teams 會議
 
-標題: TienHung-Hua 的 Teams 會議(Thinking)
-時間: 2023年2月14日 上午 10:00:00 GMT+08:00
-
-請在您的電腦或行動裝置應用程式上加入會議
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTI0MTRmZjAtOWJlYS00OTUyLTgyNTAtMjQ5NDQ1NTY0YTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
 
 
 
