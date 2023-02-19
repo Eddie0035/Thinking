@@ -10,7 +10,7 @@
 
 **第二週2023/02/21（二）10:10-12:00**
 
-- 進度內容：入門概論-Python下載與使用
+- 進度內容：入門概論-Python/Colab
 - MS Teams 連結
 
 您受邀加入 Microsoft Teams 會議
