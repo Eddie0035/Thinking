@@ -12,14 +12,9 @@
 
 - 進度內容：入門概論-Python/Colab
 - MS Teams 連結
+- 課程錄影：https://youtu.be/ciRf4427z0Q
+https://youtu.be/nJpPfEVrItU
 
-您受邀加入 Microsoft Teams 會議
-
-標題: TienHung-Hua 的 Teams 會議(Thinking)
-時間: 2023年2月21日 上午 10:00:00 GMT+08:00
-
-請在您的電腦或行動裝置應用程式上加入會議
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDAyNzQ2OWYtMDdiNy00NjI5LTllYzgtZDliZjUzZGRhMzIz%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
 
 **第一週2023/02/14（二）10:10-12:00**
 
