@@ -13,8 +13,7 @@
 - 進度內容：入門概論-Python/Colab
 - MS Teams 連結
 - 課程錄影：https://youtu.be/ciRf4427z0Q
-- 
-https://youtu.be/nJpPfEVrItU
+           https://youtu.be/nJpPfEVrItU
 
 
 **第一週2023/02/14（二）10:10-12:00**
