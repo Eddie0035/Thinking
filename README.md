@@ -18,6 +18,8 @@ https://teams.microsoft.com/l/meetup-join/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-
 
 步驟1: 請先試看看@live.shu.edu.tw電郵可不可以用
 
+可由學校的山洞口進入
+
 步驟2：請先加入團隊，連結如下：
 https://teams.microsoft.com/l/team/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-Iy22ckhxQk1%40thread.tacv2/conversations?groupId=2d13b1a7-ca83-4e91-bdf0-ff07e61f1643&tenantId=4a28fc97-b766-4520-8a32-79999f14dfcb
 
