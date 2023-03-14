@@ -12,7 +12,7 @@
 
 - 進度內容：序列結構-輸入與輸出
 - 課程錄影：
-           -https://youtu.be/uJpKiux8dMA
+           - https://youtu.be/uJpKiux8dMA
            - https://youtu.be/5JdCVmOq9q8
 - MS Teams 連結 
 
