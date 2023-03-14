@@ -12,8 +12,8 @@
 
 - 進度內容：序列結構-輸入與輸出
 - 課程錄影：
-           - https://youtu.be/uJpKiux8dMA
-           - https://youtu.be/5JdCVmOq9q8
+  - https://youtu.be/uJpKiux8dMA
+  - https://youtu.be/5JdCVmOq9q8
 - MS Teams 連結 
 
 還沒有加入團隊的，請先加入課程團隊，連結如下：
@@ -24,8 +24,8 @@ https://teams.microsoft.com/l/team/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-Iy22ckh
 
 - 進度內容：序列結構-資料類型與變數附值
 - 課程錄影：
-           - https://youtu.be/Zhs5O3Hazhk
-           - https://youtu.be/y60w_Oj0xc4
+  - https://youtu.be/Zhs5O3Hazhk
+  - https://youtu.be/y60w_Oj0xc4
 - MS Teams 連結 
 
 步驟1: 請先試看看@live.shu.edu.tw電郵可不可以用
@@ -46,8 +46,8 @@ https://teams.microsoft.com/l/team/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-Iy22ckh
 - 進度內容：入門概論-Python/Colab
 - MS Teams 連結
 - 課程錄影：
-           - https://youtu.be/ciRf4427z0Q
-           - https://youtu.be/nJpPfEVrItU
+  - https://youtu.be/ciRf4427z0Q
+  - https://youtu.be/nJpPfEVrItU
 
 
 **第一週2023/02/14（二）10:10-12:00**
@@ -57,8 +57,8 @@ https://teams.microsoft.com/l/team/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-Iy22ckh
 - 進度內容：入門概論-認識電腦
 - MS Teams 連結
 - 課程錄影：
-           - https://youtu.be/RgqZ0ZiYZ3E         
-           - https://youtu.be/p5Yv5FaQQ24
+  - https://youtu.be/RgqZ0ZiYZ3E         
+  - https://youtu.be/p5Yv5FaQQ24
            
 
 
