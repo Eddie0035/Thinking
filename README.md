@@ -22,7 +22,6 @@
 - 進度內容：序列結構-對話機器人
 - 課程錄影：
 - MS Teams 連結 
-https://teams.microsoft.com/l/meetup-join/19%3aElBwOAHcNMUBMejqUcnRs_rr-J0jKpEQ-Iy22ckhxQk1%40thread.tacv2/1679919237207?context=%7b%22Tid%22%3a%224a28fc97-b766-4520-8a32-79999f14dfcb%22%2c%22Oid%22%3a%224591d026-a49a-48f2-ae8b-60c165f16bfe%22%7d
 
 第八週2023/04/02（二）10:10-12:00**
 
